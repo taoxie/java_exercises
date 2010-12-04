@@ -1,0 +1,14 @@
+Java Code Exercises
+===================
+
+Coding Question1:  Write me a function that receives three integer inputs for the lengths of the sides of a triangle and returns one of four values to determine the triangle type (1=scalene, 2=isosceles, 3=equilateral, 4=error).
+ 
+Coding Question2: Implement a HashSet based on a HashMap.
+ 
+Coding Question3: Read a text file with English text and list the top 10 words, sorted by occurrence.
+ 
+Coding Question4: Implement a simple HTTP based service that sends an email.
+ 
+Coding Question5: Implement a generic "bag" container that follows guidelines from the Java Collections library.
+ 
+Coding Question6: Design and write a component that can load resources from websites.
