@@ -1,5 +1,10 @@
 package triangle;
 
+/**
+ * Utility class that provides information about Triangle(s)
+ * @author raul
+ *
+ */
 public class Triangle {
 
 	public static final int SCALENE = 1;

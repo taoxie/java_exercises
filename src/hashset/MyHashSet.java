@@ -6,6 +6,12 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
+/**
+ * Set implementation based on a HashMap
+ * @author raul
+ *
+ * @param <E>
+ */
 public class MyHashSet<E> implements Set<E> {
 
 	private final Map<E, Object> map;
